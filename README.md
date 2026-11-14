@@ -124,8 +124,8 @@ Status: Open for Software Engineering Collaborations & Internships
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ 02. Del-Academic Hub — Campus Learning Portal</h3>
-      <p>Platform kolaborasi akademik terintegrasi untuk mahasiswa Institut Teknologi Del yang memfasilitasi pertukaran materi kuliah, manajemen tugas, dan diskusi studi.</p>
+      <h3>🏛️ 02. Academic Hub — Campus Learning Portal</h3>
+      <p>Platform kolaborasi akademik terintegrasi untuk mahasiswa yang memfasilitasi pertukaran materi kuliah, manajemen tugas, dan diskusi studi.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
