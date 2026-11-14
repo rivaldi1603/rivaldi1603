@@ -14,7 +14,7 @@
         </p>
         <!-- TYPING ANIMATION (HIGH CONTRAST & ACCURATE ROTATION) -->
         <a href="https://github.com/rivaldi1603">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=008F58&center=false&vCenter=true&width=560&lines=Building+Software+Solutions.;Exploring+Artificial+Intelligence.;Learning+Software+Engineering.;Developing+Modern+Web+Applications.;Student+at+IT+Del" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=008F58&center=false&vCenter=true&width=560&lines=Building+Software+Solutions.;Exploring+Artificial+Intelligence.;Learning+Software+Engineering.;Developing+Modern+Web+Applications.;Student+at+Institut+Teknologi+Del" alt="Typing SVG" />
         </a>
       </td>
       <td width="28%" align="center" valign="middle">
