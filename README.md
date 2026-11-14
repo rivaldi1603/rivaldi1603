@@ -7,7 +7,7 @@
   <table border="0" width="100%">
     <tr>
       <td width="72%" valign="middle">
-        <h2 align="left">👋 Hi there, I'm <span style="color:#00E68A;">Rivaldi Siahaan</span></h2>
+        <h2 align="left">👋 Hi there, I'm <span style="color:#00E68A;">Rivaldi Adrian Siahaan</span></h2>
         <p align="left">
           <b>🎓 Informatics Student @ Institut Teknologi Del</b><br/>
           <i>Passionate Software Developer & Technology Enthusiast</i>
@@ -19,7 +19,7 @@
       </td>
       <td width="28%" align="center" valign="middle">
         <a href="https://github.com/rivaldi1603">
-          <img src="./profile.svg" width="150" height="150" alt="Rivaldi Siahaan" style="border-radius: 50%;" />
+          <img src="./profile.svg" width="150" height="150" alt="Rivaldi Adrian Siahaan" style="border-radius: 50%;" />
         </a>
       </td>
     </tr>
@@ -53,7 +53,7 @@
     <td width="60%" valign="top">
 
 ```yaml
-Name: Rivaldi Siahaan
+Name: Rivaldi Adrian Siahaan
 University: Institut Teknologi Del (IT Del)
 Degree: Bachelor of Informatics / Computer Science
 Location: Laguboti, Toba, North Sumatra 🇮🇩
@@ -230,5 +230,5 @@ Status: Open for Software Engineering Collaborations & Internships
 <div align="center">
   <!-- FOOTER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D0B,70:101C17,100:00E68A&height=100&section=footer" width="100%" alt="Footer Banner" />
-  <p><sub>THANK YOU FOR VISITING MY PROFILE • CRAFTED WITH PASSION BY RIVALDI SIAHAAN</sub></p>
+  <p><sub>THANK YOU FOR VISITING MY PROFILE • CRAFTED WITH PASSION BY RIVALDI ADRIAN SIAHAAN</sub></p>
 </div>
